@@ -1,0 +1,7 @@
+{
+  "name": "jsmap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
